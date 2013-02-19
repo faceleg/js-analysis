@@ -18,6 +18,9 @@
       "url": "git://github.com/faceleg/js-analysis.git"
     }
   ],
+  "dependencies":{
+    "complexity-report": ""
+  },
   "devDependencies": {
     "vows": "0.6.x"
   },
