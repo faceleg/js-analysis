@@ -1,4 +1,4 @@
-Git Importer
+JS Analysis
 ============
 
-Import Github repository details & file tree.
+Import & analyse JS files from Github
